@@ -53,7 +53,7 @@ item.nugget.lead.name=Bleinugget
 item.nugget.quicksilver.name=Quecksilbertropfen
 item.nugget.thaumium.name=Thaumiumnugget
 item.nugget.void.name=Leermetallnugget
-item.nugget.brass.name=Alchemiemessing Nugget
+item.nugget.brass.name=Alchemielegierungsnugget
 item.nugget.quartz.name=Quarzsplitter
 item.nugget.rareearth.name=Seltene Erden
 item.cluster.iron.name=Nativer Eisencluster
@@ -71,13 +71,13 @@ item.void_seed.name=Leersaat
 item.salis_mundus.name=Salis Mundus
 item.primal_charm.name=Ursprungstalisman
 item.mirrored_glass.name=Spiegelndes Glas
-item.plate.brass.name=Messingplatte
+item.plate.brass.name=Legierungsplatte
 item.plate.iron.name=Eisenplatte
 item.plate.thaumium.name=Thaumiumplatte
 item.plate.void.name=Leermetallplatte
 item.mechanism_simple.name=Einfacher Arkaner Mechanismus
 item.mechanism_complex.name=Komplexer Arkaner Mechanismus
-item.gear.brass.name=Messingzahnrad
+item.gear.brass.name=Legierungszahnrad
 item.gear.thaumium.name=Thaumiumzahnrad
 item.gear.void.name=Leermetallzahnrad
 item.fabric.name=Verzauberter Stoff
@@ -100,7 +100,7 @@ item.phial.empty.name=Glasphiole
 item.phial.filled.name=Essentiaphiole
 item.label.blank.name=Leeres Schildchen
 item.label.filled.name=Markiertes Schildchen
-item.jar_brace.name=Messingdeckelklammer
+item.jar_brace.name=Legierungsdeckelklammer
 item.bath_salts.name=Entschlackende Badesalze
 item.bucket_death.name=Eimer flüssigen Todes
 item.bucket_pure.name=Eimer reinigendes Gel
@@ -340,7 +340,7 @@ tile.smelter_aux.name=Massepumpe
 tile.smelter_vent.name=Entlüftungsventil
 tile.recharge_pedestal.name=Aufladesockel
 tile.hungry_chest.name=Hungrige Truhe
-tile.spa.name=Arkanes Spa
+tile.spa.name=Arcane Wellness
 tile.thaumatorium.name=Thaumatorium
 tile.thaumatorium_top.name=Thaumatorium
 tile.brain_box.name=Mnemonische Matrix
@@ -382,7 +382,7 @@ tile.candle_black.name=Schwarze Talgkerze
 tile.pedestal_arcane.name=Arkaner Sockel
 tile.pedestal_eldritch.name=Unnatürlicher Sockel
 tile.pedestal_ancient.name=Antiker Sockel
-tile.banner_crimson_cult.name=Karmesinkult Banner
+tile.banner_crimson_cult.name=Karmesinroter Kult Banner
 tile.banner_white.name=Weises Banner
 tile.banner_orange.name=Orangenes Banner
 tile.banner_magenta.name=Magentafarbenes Banner
@@ -419,7 +419,7 @@ tile.metal.thaumium.name=Thaumiumblock
 tile.metal.void.name=Leermetallblock
 tile.metal.alchemical.name=Alchemiekonstrukt
 tile.metal.alchemical_advanced.name=Verbessertes Alchemiekonstrukt
-tile.metal.brass.name=Messingblock
+tile.metal.brass.name=Legierungsblock
 tile.flesh.block.name=Fleischblock
 tile.paving_stone_barrier.name=Bannstein
 tile.paving_stone_travel.name=Pflasterstein des Reisens
@@ -852,7 +852,7 @@ golem.prop.exist=Behälter muss den Gegenstand bereits enthalten
 golem.prop.leave=Behalte immer einen Gegenstand
 golem.prop.silk=Benutze Behutsamkeit
 
-focuspart.com=Komplexität:
+focuspart.com=Complexity:
 
 focuspart.base=Basiskosten:
 focuspart.mult=Kostenmultiplikator:
@@ -1108,7 +1108,7 @@ tc.fluxevent.3=Es scheint das zu viel Flux in der lokalen Aura ist.
 tc.stage.complete=Abgeschlossen
 tc.stage.hold=Schließe ab...
 tc.warp.warn= Verzerrungslevel: %n
-tc.knowledge.name=Wissens Summe
+tc.knowledge.name=Wissen
 tc.logistics.request=Anfordern
 tc.logistics.search=Suchen
 tc.celestial.fail.1=Das hast du heute schon studiert.
@@ -1206,12 +1206,12 @@ research.EldritchGuardian.stage.1=Diese geisterhaften Gestalten sind eine gefäh
 #
 research.EldritchCrab.stage.1=Unnatürliche Krabben oder Helm Krabben sind höchst ungewöhnliche und unnatürliche Kreaturen. Ich bin überzeugt, dass diese Kreaturen das Ergebnis magischen Bastelns sind.<BR>Ein Paar mächtiger Klauen macht sie im Kampf gefährlich, aber wie sie diese Klauen benutzen, ist es was sie schrecklich machen. Sie springen auf die Köpfe ihrer Feinde zu, um sie zu enthaupten. Wenn sie erfolgreich sind, können sie sich irgendwie in den Körper des Opfers eingraben und die Kontrolle über das, was übrig bleibt, übernehmen. Ihr Bauch sieht aus wie ein Helmkopf, der es ihnen ermöglicht, die wahre Natur der Hüllen, die sie jetzt kontrollieren, zu verschleiern.<BR>Diese Hüllen sind nicht viel mächtiger als ein normaler Zombie, und der Grund, warum sie dies tun, entgeht mir - sie sind eine größere Bedrohung ohne ihr "Reittier". Möglicherweise wurden sie von einem wahnsinnigen Erfinder als Terrorwaffen erschaffen?   
 #
-research.CrimsonCultist.title=Der Karmesinkult
+research.CrimsonCultist.title=Der Karmesinrote Kult
 research.CrimsonCultist.stage.1=Diese rotgekleideten Kultisten sind in letzter Zeit aufgetaucht. Ihre Ziele sind mir unbekannt und sie scheinen nicht bereit zu sein zu reden. Sie scheinen irgendwie falsch zu sein. Ihr Halt an der Vernunft scheint bestenfalls dürftig, aber das Unrecht geht viel tiefer. Es ist schwer zu beschreiben.<BR>Meine Anwesenheit scheint sie zu verärgern und ich glaube, es hat etwas mit meiner Fähigkeit zur Thaumaturgie zu tun.<BR>Ihre Geistlichen sind auch in der Lage Magie einzusetzen und ich kann spüren, dass sie sie der Aura entziehen, aber die Magie selbst scheint keine Thaumaturgie zu sein. Was auch immer es ist, es lässt meine Haut krabbeln und ich kann fühlen, wie die Aura jedes Mal, wenn sie daran ziehen, knickt und zerreißt.<BR>Einige von ihnen scheinen ein Buch mit sich herumzutragen. Ich sollte versuchen, eins davon zu bekommen, vielleicht erfahre ich so mehr über diesen seltsamen Kult. Ich sollte jedoch vorsichtig sein, einige Kenntnisse können gefährlich sein.
 #
 research.CrimsonRites.title=Die Karmesinroten Riten
 research.CrimsonRites.stage.1=Ich sollte das Buch finden, das die Kultisten die Purpurriten Riten nennen und es studieren.
-research.CrimsonRites.stage.2=Ein Großteil dieses Buches ist in einer spinnenartigen und unverständlichen Schrift geschrieben, aber was ich verstehen kann, bietet mir einige seltsame Einblicke in die Ziele des Karmesinkults.<BR>Ihre Ursprünge sind geheimnisvoll, aber es scheint, als ob ihr Ziel die Perfektion eines Rituals ist, welches sie als "Apertis Oculis" bezeichnen - Das Auge öffnen. Was es tut, ist unklar, aber ich bezweifle, dass es etwas Gutes ist.<BR>Interessanterweise denke ich, dass die Thaumaturgie die fehlenden Stücke anbietet, die sie so lange gesucht haben. Natürlich würde nur ein Verrückter diese Studienrichtung verfolgen ...
+research.CrimsonRites.stage.2=Ein Großteil dieses Buches ist in einer spinnenartigen und unverständlichen Schrift geschrieben, aber was ich verstehen kann, bietet mir einige seltsame Einblicke in die Ziele des Karmesinroten Kults.<BR>Ihre Ursprünge sind geheimnisvoll, aber es scheint, als ob ihr Ziel die Perfektion eines Rituals ist, welches sie als "Apertis Oculis" bezeichnen - Das Auge öffnen. Was es tut, ist unklar, aber ich bezweifle, dass es etwas Gutes ist.<BR>Interessanterweise denke ich, dass die Thaumaturgie die fehlenden Stücke anbietet, die sie so lange gesucht haben. Natürlich würde nur ein Verrückter diese Studienrichtung verfolgen ...
 #
 research.TaintCrawler.stage.1=Diese widerlichen Maden scheiden Verderbniss aus, wohin sie auch gehen. Die meiste Zeit ist die Verderbniss kurzlebig, wenn sie zu weit vom Kern des Verderbniss-Wachstums entfernt sind. In anderen Fällen kann dies jedoch dazu führen, dass sich die Verderbniss viel schneller ausbreitet, als es normalerweise der Fall wäre.<BR>Es ist am besten, sie zu zerstören wenn man sie sieht.
 #
@@ -1230,11 +1230,11 @@ research.FIRSTSTEPS.stage.2=Fortschritt! Ich habe jetzt eine Arkane Werkbank zur
 research.FIRSTSTEPS.stage.3=Solch seltsame Wunder werden mir offenbart. Wenn ich durch die Linse des Thaumometers schaue, sehe ich eine Welt voller Magie. Vis - wie es das Buch nennt.<BR>Normalerweise ist diese Energie ein reiner Ozean der Magie, der schwindet und fließt, aber der auch alle belebten und unbelebten Dinge durchdringt . Das Buch nennt Vis in diesem Zustand Essentia. Wo Vis formlos und rein ist, ist Essentia von Natur aus starrer und gliedert sich in eine Vielzahl klar definierter Typen, die sich zu größeren und komplexeren Arten von Essentia vermischen.<BR>Ich bin mir nicht ganz sicher, ob die Materie der Essentia ihre Herkunft gibt, oder ob die Natur der Materie von der darin enthaltenen Essentia abhängt. Dies bedarf weiterer Untersuchungen.<BR>Ich führe ein Protokoll über alle Arten von Essentien, die ich entdecke. Ein Lesezeichen auf der linken Seite zeigt mein aktuelles Wissen.<BR>Im Moment muss ich meine Energien anderswo konzentrieren - drei Wege haben sich vor mir geöffnet. Welchen nehme ich zuerst?
 #
 research.KNOWLEDGETYPES.title=Arten des Wissens
-research.KNOWLEDGETYPES.stage.1=Es gibt zwei Haupttypen von Wissen: Beobachtungen und Theorien. Sie werden weiter unterteilt in die Hauptforschungskategorien wie Alchemie und Artefakte.<LINE>§lBeobachtungen§r sind genau das - Beobachtungen, die du in der realen Welt durch Scannen von Objekten gemacht hast. Praktische Beobachtungen geben oft Einblicke in die Funktionsweise der Dinge, und wenn du die Beobachtungen vor Ort notierst, baust du langsam eine solide Wissensbasis auf, mit der du arbeiten kannst.<LINE>§lTheorien§r sind, zusammengefasst, Wege, Dinge durch sorgfältige Beobachtung, rationales Denken und praktisches Experimentieren zu verstehen. Für einen Großteil der thaumaturgischen Forschung sind handwerkliche Theorien erforderlich, um die Forschungskategorien besser zu verstehen.
+research.KNOWLEDGETYPES.stage.1=Es gibt zwei Haupttypen von Wissen: Beobachtungen und Theorien. Sie werden weiter unterteilt in die Hauptforschungskategorien wie Alchemie und Artefakte.<LINE>Beobachtungen sind genau das - Beobachtungen, die du in der realen Welt durch Scannen von Objekten gemacht hast. Praktische Beobachtungen geben oft Einblicke in die Funktionsweise der Dinge, und wenn du die Beobachtungen vor Ort notierst, baust du langsam eine solide Wissensbasis auf, mit der du arbeiten kannst.<LINE>Theorien sind, zusammengefasst, Wege, Dinge durch sorgfältige Beobachtung, rationales Denken und praktisches Experimentieren zu verstehen. Für einen Großteil der thaumaturgischen Forschung sind handwerkliche Theorien erforderlich, um die Forschungskategorien besser zu verstehen.
 #
 research.THEORYRESEARCH.title=Theorieforschung
 research.THEORYRESEARCH.stage.1=Damit ich als Thaumaturg Fortschritte machen kann, kann ich mich nicht darauf verlassen, einfach die Welt um mich herum zu studieren oder über altes Wissen zu stolpern. Ich muss meine eigenen Entdeckungen machen und mein Wissen durch Experimente erweitern. Die Herstellung eigener Theorien ist der einzige Weg.<BR>Ich muss einen komfortablen Arbeitsbereich schaffen, um meine Recherchen, mit einem reichlichen Vorrat wie Schreibmaterial und Papier, durchführen zu können. Ich sollte ein paar Schreibwerkzeuge basteln und auf einen Tisch legen. 
-research.THEORYRESEARCH.stage.2=Jetzt, da ich einen Arbeitsbereich habe, sollte ich anfangen, Forschungen anzustellen. Ich kann jetzt Theorien formulieren, wie ich die Magie zu meinen eigenen Zwecken manipulieren kann.<BR>Zuerst sollte ich sicherstellen, dass der Tisch reichlich Papier enthält und mein Schreibwerkzeug reichlich Tinte hat. Am oberen Rand der Seite sehe ich, wie viel Inspiration (dargestellt) (mit Glühbirnen) mir für diese Forschungsrunde zur Verfügung stehen. Ich kann jetzt mit der Erforschung der Theorie zu beginnen.<IMG>thaumcraft:textures/research/research1.png:0:0:128:96:1</IMG> Wenn ich das mache, erscheint links ein Stapel Papiere. Wenn ich sie auswähle, habe ich die Wahl zwischen zwei Forschungspfaden, denen ich folgen kann. Auf jedem Pfad wird angegeben, welches Wissen mir gewährt wird, aufgeteilt in eine oder mehrere Forschungskategorien.<BR>Für einige der Auswahlmöglichkeiten sind Gegenstände erforderlich. Diese Gegenstände werden normalerweise verbraucht.<BR>Normalerweise kann ich nur Forschungskategorien verfolgen, die ich freigeschaltet habe, obwohl ich mir sicher bin, dass ich gelegentlich völlig neue Forschungswege entdecken kann.<BR>Ich kann weiter Stapel ziehen um mein Wissen zu erweitern. Ich sollte jedoch beachten, dass jede Auswahl, die ich treffe, einen Teil meiner Inspiration kostet. Sobald sie verbraucht ist, wird die Forschung abgeschlossen. Die Menge an anfänglicher Inspiration, die mir zur Verfügung steht, erhöht sich mit zunehmendem Wissen über Magie.<BR>Mein Fortschritt in den Forschungskategorien wird in Prozent angezeigt - 100% entspricht einer vollständigen Theorie. Das Erreichen von weniger als 100% in einer Kategorie zählt jedoch weiterhin und wird dem aktuellen Wissen hinzugefügt, sobald ich meine Forschung abgeschlossen habe. Es ist möglich, mehr als 100% in einer Kategorie zu erhalten. Die höchste Kategorie in meiner aktuellen Forschung erhält ebenfalls einen erheblichen Bonus, sobald ich diese abgeschlossen habe.<BR><PAGE>Forschungshilfsmittel<BR>Normalerweise ist Forschung etwas verstreut. Ich kann meine Forschung mit Hilfe von Forschungshilfsmitteln lenken. Wenn ich während des Forschungsprozesses bestimmte nahe gelegene Blöcke, Gegenstände und Kuriositäten verwende, kann ich meine Forschung in eine bestimmte Richtung lenken. Wenn ich zum Beispiel Zugang zu einem Bücherregal habe, erhalte ich Referenzmaterialien, die ich während des Forschungsprozesses verwenden kann. Hierbei handelt es sich um begrenzte Sonderziehungen, bei denen die Wahrscheinlichkeit höher ist als bei normalen Ziehungen. Diese haben einen vergoldeten Rand, um sie von normalen Ziehungen zu unterscheiden. Zum Beispiel gewährt das Bücherregal die Forschungsoption Universelle Theorie und zwei Chancen für die Forschungsoption Notiz, die nur bei Verwendung des Bücherregals erzielt werden können.<BR>Wenn Sie mit Ihren ersten Nachforschungen beginnen, können Sie auswählen, welche Nachforschungshilfen verwendet werden sollen. Sollte dies jedoch der Fall sein Beachten Sie, dass jede von Ihnen verwendete Hilfe Ihre anfängliche Inspiration um eins verringert.<IMG>thaumcraft:textures/research/research1.png:128:0:128:96:1</IMG><BR>Es gibt möglicherweise viele Dinge, die als Forschungshilfen verwendet werden könnten. Ich sollte experimentieren.
+research.THEORYRESEARCH.stage.2=Jetzt, da ich einen Arbeitsbereich habe, sollte ich anfangen, Forschungen anzustellen. Ich kann jetzt Theorien formulieren, wie ich die Magie zu meinen eigenen Zwecken manipulieren kann.<BR>Zuerst sollte ich sicherstellen, dass der Tisch reichlich Papier enthält und mein Schreibwerkzeug reichlich Tinte hat. Am oberen Rand der Seite sehe ich, wie viel Inspiration (dargestellt) (mit Glühbirnen) mir für diese Forschungsrunde zur Verfügung stehen. Ich kann jetzt mit der Erforschung der Theorie zu beginnen.<IMG>thaumcraft:textures/research/research1.png:0:0:128:96:1</IMG> Wenn ich das mache, erscheint links ein Stapel Papiere. Wenn ich sie auswähle, habe ich die Wahl zwischen zwei Forschungspfaden, denen ich folgen kann. Auf jedem Pfad wird angegeben, welches Wissen mir gewährt wird, aufgeteilt in eine oder mehrere Forschungskategorien.<BR>Für einige der Auswahlmöglichkeiten sind Gegenstände erforderlich. Diese Gegenstände werden normalerweise verbraucht.<BR>Normalerweise kann ich nur Forschungskategorien verfolgen, die ich freigeschaltet habe, obwohl ich mir sicher bin, dass ich gelegentlich völlig neue Forschungswege entdecken kann.<BR>Ich kann weiter Stapel ziehen um mein Wissen zu erweitern. Ich sollte jedoch beachten, dass jede Auswahl, die ich treffe, einen Teil meiner Inspiration kostet. Sobald sie verbraucht ist, wird die Forschung abgeschlossen. Die Menge an anfänglicher Inspiration, die mir zur Verfügung steht, erhöht sich mit zunehmendem Wissen über Magie.<BR>Mein Fortschritt in den Forschungskategorien wird in Prozent angezeigt - 100% entspricht einer vollständigen Theorie. Das Erreichen von weniger als 100% in einer Kategorie zählt jedoch weiterhin und wird dem aktuellen Wissen hinzugefügt, sobald ich meine Forschung abgeschlossen habe. Es ist möglich, mehr als 100% in einer Kategorie zu erhalten. Die höchste Kategorie in meiner aktuellen Forschung erhält ebenfalls einen erheblichen Bonus, sobald ich diese abgeschlossen habe.<BR><PAGE>§oForschungshilfsmittel§r<BR>Normalerweise ist Forschung etwas verstreut. Ich kann meine Forschung mit Hilfe von Forschungshilfsmitteln lenken. Wenn ich während des Forschungsprozesses bestimmte nahe gelegene Blöcke, Gegenstände und Kuriositäten verwende, kann ich meine Forschung in eine bestimmte Richtung lenken. Wenn ich zum Beispiel Zugang zu einem Bücherregal habe, erhalte ich Referenzmaterialien, die ich während des Forschungsprozesses verwenden kann. Hierbei handelt es sich um begrenzte Sonderziehungen, bei denen die Wahrscheinlichkeit höher ist als bei normalen Ziehungen. Diese haben einen vergoldeten Rand, um sie von normalen Ziehungen zu unterscheiden. Zum Beispiel gewährt das Bücherregal die Forschungsoption Universelle Theorie und zwei Chancen für die Forschungsoption Notiz, die nur bei Verwendung des Bücherregals erzielt werden können.<BR>Wenn Sie mit Ihren ersten Nachforschungen beginnen, können Sie auswählen, welche Nachforschungshilfen verwendet werden sollen. Sollte dies jedoch der Fall sein Beachten Sie, dass jede von Ihnen verwendete Hilfe Ihre anfängliche Inspiration um eins verringert.<IMG>thaumcraft:textures/research/research1.png:128:0:128:96:1</IMG><BR>Es gibt möglicherweise viele Dinge, die als Forschungshilfen verwendet werden könnten. Ich sollte experimentieren.
 #
 research.UNLOCKAUROMANCY.title=Auramagie entdecken
 research.UNLOCKAUROMANCY.stage.1=Objekte der Macht mit Vis herzustellen hat mir eine ganze Welt eröffnet, aber ich bin nicht zufrieden. Es muss eine Möglichkeit geben, die Aura direkt zu manipulieren. Ein Weg, Vis aus der Luft selbst zu ziehen und es nach meinem Willen zu formen.<BR>Ich sollte die Welt um mich herum studieren und zu ihren Rändern reisen. Dort werde ich lernen, was ich brauche.<BR>Manchmal habe ich das Gefühl, von Kräften getrieben zu werden, die außerhalb meines Verständnisses liegen - ungehörte Stimmen, die mich zu großer Macht und Wissen drängen.<BR>Vis zu formen wird ein weiterer Schritt auf diesem Weg sein.
@@ -1299,7 +1299,7 @@ research.CELESTIALSCANNING.title=Himmels Beobachtung
 research.CELESTIALSCANNING.stage.1=Ich habe einen Zusammenhang zwischen den Mondphasen und der Geschwindigkeit festgestellt, mit der sich die Aura wieder auffüllt. Ich sollte dieses Phänomen weiter untersuchen und meine Untersuchung sogar erweitern, um festzustellen, ob andere Himmelskörper die Magie beeinflussen.<BR>Ein paar kleine Änderungen an meinem Thaumometer sollten es ermöglichen, Messungen an Objekten am Himmel vorzunehmen. Ich sollte daran denken, Papier und Schreibutensilien mitzunehmen, damit ich mir Notizen machen kann.<BR>Wenn ich denselben Körper oder Quadranten des Himmels mehr als einmal am Tag messe, erhalte ich keine neuen Erkenntnisse - ich muss sie im Laufe der Zeit untersuchen um Änderungen in ihrem Aura Einfluss zu erkennen.<BR>Die Notizen, die ich sammle, sollten sich als nützlich für die Therieforschung erweisen.
 #
 research.UNLOCKELDRITCH.title=Eintauchen in das Unnatürliche
-research.UNLOCKELDRITCH.stage.1=Der Karmesinkult hat einige verrückte Ideen, aber da scheint es ein kleines Stück versteckter Wahrheit zu geben. Vielleicht sollte ich Beweise dafür finden, was sie andeuten? Wer weiß, welches Wissen ich entdecken könnte ...
+research.UNLOCKELDRITCH.stage.1=Der Karmesinrote Kult hat einige verrückte Ideen, aber da scheint es ein kleines Stück versteckter Wahrheit zu geben. Vielleicht sollte ich Beweise dafür finden, was sie andeuten? Wer weiß, welches Wissen ich entdecken könnte ...
 research.UNLOCKELDRITCH.stage.2=Ich habe etwas Seltsames gefunden ... etwas, das nicht ganz den Regeln entspricht, die die Realität und die Vernunft für uns aufgestellt haben. Ich glaube nicht, dass dieser Samen überhaupt aus unserer Realität stammt. Es kommt von irgendwo ... draußen. Ich muss das weiter studieren ... ich muss.
 research.f_VOIDSEED.text=Untersuche etwas, das in der Leere beheimatet ist
 #
@@ -1360,7 +1360,7 @@ research.ARCANESPA.stage.1=Das eingeben von Badesalz in Wasser ist eine blöde A
 research.ARCANESPA.stage.2=Ich habe eine praktische Maschine geschaffen, die, wenn sie mit Wasser und Badesalz gefüllt ist, diese automatisch mischt und die Flüssigkeit in einen Bereich darüber pumpt. Die Flüssigkeit füllt einen Bereich von 5 x 5 über dem Aufstellungsort der Maschine <BR>Außerdem habe ich sie so konzipiert, dass damit fast jede Flüssigkeit gepumpt werden kann, mit der ich sie füllen. Es kann per Automatisierung gefüllt werden oder durch Klicken auf den Block mit dem entsprechenden Container. Durch Anlegen eines Redstone-Signals wird es deaktiviert.
 #
 research.WARDEDJARS.title=Versiegelte Gläser und Etiketten
-research.WARDEDJARS.stage.1=Essentia kann in §lVersiegelten Gläsern§r aufbewahrt werden.<BR>Versiegelte Gläser können in der Welt aufgestellt werden und sind in der Lage, Essentia praktisch unbegrenzt aufzubewahren. Die Verzauberung, die auf den Gläsern angebracht ist, macht auch das Hinzufügen oder Extrahieren von Essentia zu einem Kinderspiel.<BR>Gläser können aus einer Arkanen Destille befüllt werden, indem mit dem Glas direkt auf die Destille geklickt wird. Sie können auch mit Phiolen befüllt und entleert werden.<BR>Darüber hinaus sind sie ein hervorragendes Speichermedium für Marmeladen und Konfitüren.<BR>Shift+Klicken mit der leeren Hand auf Gläser und Destillen entleert siese.<PAGE>Solange ein Glas einige Essentia enthält, kannst du ein §lGlas Etikett§r daran anhängen.<BR>Mit diesem Etikett wird das Glas an diese Art von Essentia „gebunden“, und es kann keine andere Art von Essentia aufgenommen werden.<BR> Sie können ein Etikett entfernen, indem Sie mit einer leeren Hand auf die Seite des Glases Shift-Klicken, welche die Etikette hat. Achten Sie darauf, dass Sie nicht auf eine andere Seite klicken, da dies das Glas entleert.<BR>Sie können ein Etikett in eine Werkbank mit einer Phiole Essentia legen, um ihm einen Aspekt zuzuweisen und wenn Sie es auf ein leeres Glas stellen wird das Glas automatisch auf diesen Aspekt gebunden. Das im Rezept verwendete Essentia wird nicht verbraucht.<BR>Wenn Sie es auf ein gefülltes Glas setzen, ändert sich das Etikett in den Essentia-Typ des Glases.<BR>Ein Etikett kann wieder blank gemacht werden, indem Sie es einfach in das Craftig Feld legen.<PAGE>Sie können auch §lMessingdeckelklammern§r herstellen. Wenn sie mit einem Glas verwendet werden, verhindern sie, dass Essentia von etwas anderem als Röhren aus dem Glas gezogen oder in das Glas gegeben wird.<BR>Wenn Sie das Glas aufheben, wird die Klammer entfernt und als Gegenstand zurückgegeben.
+research.WARDEDJARS.stage.1=Essentia kann in Versiegelten Gläsern aufbewahrt werden.<BR>Versiegelte Gläser können in der Welt aufgestellt werden und sind in der Lage, Essentia praktisch unbegrenzt aufzubewahren. Die Verzauberung, die auf den Gläsern angebracht ist, macht auch das Hinzufügen oder Extrahieren von Essentia zu einem Kinderspiel.<BR>Gläser können aus einer Arkanen Destille befüllt werden, indem mit dem Glas direkt auf die Destille geklickt wird. Sie können auch mit Phiolen befüllt und entleert werden.<BR>Darüber hinaus sind sie ein hervorragendes Speichermedium für Marmeladen und Konfitüren.<BR>Shift+Klicken mit der leeren Hand auf Gläser und Destillen entleert siese.<PAGE>Solange ein Glas einige Essentia enthält, kannst du ein Glas Etikett daran anhängen.<BR>Mit diesem Etikett wird das Glas an diese Art von Essentia „gebunden“, und es kann keine andere Art von Essentia aufgenommen werden.<BR> Sie können ein Etikett entfernen, indem Sie mit einer leeren Hand auf die Seite des Glases Shift-Klicken, welche die Etikette hat. Achten Sie darauf, dass Sie nicht auf eine andere Seite klicken, da dies das Glas entleert.<BR>Sie können ein Etikett in eine Werkbank mit einer Phiole Essentia legen, um ihm einen Aspekt zuzuweisen und wenn Sie es auf ein leeres Glas stellen wird das Glas automatisch auf diesen Aspekt gebunden. Das im Rezept verwendete Essentia wird nicht verbraucht.<BR>Wenn Sie es auf ein gefülltes Glas setzen, ändert sich das Etikett in den Essentia-Typ des Glases.<BR>Ein Etikett kann wieder blank gemacht werden, indem Sie es einfach in das Craftig Feld legen.<PAGE>Sie können auch Legierungsdeckelklammern herstellen. Wenn sie mit einem Glas verwendet werden, verhindern sie, dass Essentia von etwas anderem als Röhren aus dem Glas gezogen oder in das Glas gegeben wird.<BR>Wenn Sie das Glas aufheben, wird die Klammer entfernt und als Gegenstand zurückgegeben.
 #
 research.ESSENTIASMELTER.title=Essentia-Schmelzen
 research.ESSENTIASMELTER.stage.1=Ich sehe eine Zeit schnell näher rücken, in der ich Zugang zu verschiedenen Arten von Essentia haben muss. Dafür brauche ich eine Quelle und die offensichtlichste ist die Essentia, die in allem zu finden ist.<BR>Mit alchemistischen Grundsätzen sollte es möglich sein, Objekte aufzubrechen und in Essentia umzuwandeln. Bevor ich jedoch anfangen kann muss ich Essentia in der reinsten Form studieren, die mir zur Verfügung steht - Vis Kristalle.<BR>Indem ich diese Kristalle einer, ähh, "zerstörerischen Prüfung" unterziehe sollte ich in der Lage sein zu bestimmen wie sie unter verschiedenen Extremen reagieren um so den besten Weg zu bestimmen, um ihre Reinheit zu bewahren. Ich sollte mit dem ursprünglichen Essentia beginnen.
@@ -1539,7 +1539,7 @@ research.LAMPFERTILITY.title=Lampe der Fruchtbarkeit
 research.LAMPFERTILITY.stage.1=Meine Studien von Lux haben mir gezeigt, dass Licht als Medium für andere hilfreiche Magien verwendet werden kann.<BR>Normales Licht hat nachweislich sowohl positive als auch negative Auswirkungen auf Stimmungen. Ich glaube, ich kann diesen Effekt durch ein bisschen Magie verbessern.
 research.LAMPFERTILITY.stage.2=Lebewesen, die in das sanfte rosa Leuchten dieser Lampe getaucht sind, werden sofort in eine viel romantischere Stimmung versetzt. Wenn sie in der Lage sind, werden sie andere ihrer Art suchen, um sich zu paaren.<BR>Diese Lampe hat keine Wirkung, wenn bereits 8 oder mehr Kreaturen dieser Art vorhanden sind<BR>Sie benötigt Desiderium Essentiaum zu funktionieren, welches der Lampe zugeführt werden kann, indem sie direkt an ein Essentia-Rohrleitungssystem angeschlossen wird.<BR>Die Lampe kann durch Anlegen eines Redstone-Signals ausgeschaltet werden.
 #
-research.BELLOWS.title=Arkaner Blasebälg
+research.BELLOWS.title=Arkaner Blasebalg
 research.BELLOWS.stage.1=Das Erhitzen von Öfen mit einem Blasebalg erhöht die Hitze und die Schmelzgeschwindigkeit, aber das Pumpen von Luft mit der Hand scheint eine verrückte Verschwendung meiner Zeit und meines Talents zu sein. Wenn sich nun der Blasebalg selbst pumpen könnte, wäre das eine ganz andere Sache.
 research.BELLOWS.stage.2=Der arkane Blasebalg hat fast die gleiche Funktion wie sein gewöhnliches Gegenstück. Der einzige Unterschied besteht darin, dass er glücklich selbst vor sich hin pumpt und einen unendlichen Luftstrom abgibt.<BR>Wie ich gehofft hatte, kann er an Öfen befestigt werden, um ihre Schmelzgeschwindigkeit zu erhöhen.<BR>Es ist auch möglich, sie an Schmelztiegeln anzubringen, um die Zeit zu verkürzen, die ihr Wasser zum Kochen braucht.<BR>Der Blasebalg kann durch Anlegen eines Redstone-Signals deaktiviert werden. <BR> Ich bin zuversichtlich, dass sich weitere Verwendungen finden werden.
 #
@@ -1677,7 +1677,7 @@ research.ADVANCEDTURRET.stage.2=Die Fortschrittliche automatische Armbrust funkt
 # GOLEMANCY (to be translated)
 ##########################################
 #
-research.BASEGOLEMANCY.title=Basic Golemantik
+research.BASEGOLEMANCY.title=Grundlegende Golemantik
 research.BASEGOLEMANCY.stage.1=Ich verstehe jetzt die grundlegenden Konzepte, die Golemantik formen, aber ich bin sicher, dass ich die primitiven Konstrukte, die jeder herstellen kann, verbessern kann. Zumindest kann ich die arkane Wissenschaft nutzen, um einen einfachen Verstand zu entwerfen, der sowohl zuverlässig als auch vorhersehbar ist, anstatt mich auf die chaotische Natur der Magie zu verlassen, um meine Konstrukte zu lenken.
 #
 research.JARBRAIN.title=Gehirn in einem Glas
@@ -1789,7 +1789,7 @@ research.GOLEMFLYER.stage.1=ch sollte einen Weg finden, um die Beweglichkeit mei
 research.GOLEMFLYER.stage.2=Im Grunde genommen habe ich die Beine eines Golems abgeschnitten und einen Arkanen Levitator an ihre Stelle geklebt, um einen Golem zum Fliegen zu bringen! Dies verleiht ihm eine gute, wenn auch etwas unbeständige Beweglichkeit, obwohl er sich langsamer bewegt. §9Diese Forschung schaltet zusätzliche Golemteile frei.§0
 research.f_FLY.text=Untersuche eine fliegende Kreatur genau.
 #
-research.GOLEMBREAKER.title=Golemanipulation: Block brechen
+research.GOLEMBREAKER.title=Golemmanipulation: Block brechen
 research.GOLEMBREAKER.stage.1=Ich sollte die Anzahl der Werkzeuge und Fähigkeiten erhöhen, die meinen Golems zur Verfügung stehen. Vielleicht könnte ich ihnen die Fähigkeit geben, Blöcke zu brechen?
 research.GOLEMBREAKER.stage.2=Durch das Ersetzen der Arme eines Golems durch einen Satz leistungsstarker, diamantbeschichteter pneumatischer Schleifmaschinen können alle Materialien außer den härtesten durchbrochen werden. §9Diese Forschung schaltet zusätzliche Golemteile frei§0.
 #
@@ -1805,9 +1805,9 @@ research.BASEELDRITCH.title=Leersaat
 research.BASEELDRITCH.stage.1=Die Leersaat, den ich entdeckt habe, muss weiter untersucht werden. Ich sollte weiter forschen und vielleicht einen praktischen Nutzen dafür entdecken. <BR>Derzeit scheint es morphisch instabil zu sein - seine physikalischen Eigenschaften verändern sich ständig und verändern ihre Form. Vielleicht macht es das Binden mit etwas anderem einfacher, es zu manipulieren. Metal vielleicht?
 research.BASEELDRITCH.stage.2=Meine Hand zittert, als ich das schreibe. Die seltsame Substanz, die ich untersucht habe, hat mir seltsame neue Perspektiven eröffnet. <BR>Vor mir liegen Formeln für die Schaffung eines mysteriösen neuen Metalls, aber ich kann mich nicht daran erinnern, sie geschrieben zu haben und die Handschrift sieht auch nicht so aus wie meine. <BR>Das Metall, das sie beschreiben, ist eine Masse von Widersprüchen. Es ist hart und unnachgiebig, aber gleichzeitig weich und leicht zu verarbeiten. Es fühlt sich warm an, ist fast lebendig und heilt sich, wenn es beschädigt wird, langsam von selbst. Es scheint fast ... falsch, nur physische Werkzeuge daraus herzustellen.
 #
-research.VOIDSIPHON.title=Leerensiphon
-research.VOIDSIPHON.stage.1=Einen Riss zu zerstören, um Leersaat zu erhalten, ist höchst unpraktisch. Ich muss einen besseren Weg finden. <BR>Obwohl die meisten Reden der Karmesinkultisten Unsinn sind, beziehen sie sich doch darauf, Macht aus Rissen zu ziehen. Ich glaube, es sollte möglich sein, einen Teil der Verdorbenen Energie in Spalten abzusaugen, um Leersaat zu bilden, ohne den Spalt direkt zu zerstören.
-research.VOIDSIPHON.stage.2=Ich gebe es nicht gern zu, aber die Karmesinkultisten sind vielleicht auf dem richtigen Weg. Ich habe es geschafft, einen Leersiphon zu entwerfen, der langsam Energie aus nahegelegenen Rissen entzieht. Diese Energie wird langsam Leersaat bilden. Je größer der Riss ist, desto schneller erfolgt dieser Vorgang. <BR>Leider ist dies nicht ohne Konsequenzen für den Riss. Der Riss wird zunehmend instabil und schrumpft langsam, wenn seine Energie verloren geht. Ich muss aufpassen, dass sie nicht überbeansprucht werden. <BR>Ein Redstone-Signal deaktiviert den Leersiphon.
+research.VOIDSIPHON.title=VLeerensiphon
+research.VOIDSIPHON.stage.1=Einen Riss zu zerstören, um Leersaat zu erhalten, ist höchst unpraktisch. Ich muss einen besseren Weg finden. <BR>Obwohl die meisten Reden der Karmesinroten Kultisten Unsinn sind, beziehen sie sich doch darauf, Macht aus Rissen zu ziehen. Ich glaube, es sollte möglich sein, einen Teil der Verdorbenen Energie in Spalten abzusaugen, um Leersaat zu bilden, ohne den Spalt direkt zu zerstören.
+research.VOIDSIPHON.stage.2=Ich gebe es nicht gern zu, aber die Karmesinroten Kultisten sind vielleicht auf dem richtigen Weg. Ich habe es geschafft, einen Leersiphon zu entwerfen, der langsam Energie aus nahegelegenen Rissen entzieht. Diese Energie wird langsam Leersaat bilden. Je größer der Riss ist, desto schneller erfolgt dieser Vorgang. <BR>Leider ist dies nicht ohne Konsequenzen für den Riss. Der Riss wird zunehmend instabil und schrumpft langsam, wenn seine Energie verloren geht. Ich muss aufpassen, dass sie nicht überbeansprucht werden. <BR>Ein Redstone-Signal deaktiviert den Leersiphon.
 #
 research.VOIDSEERPEARL.title=Perle des Tiefblickenden
 research.VOIDSEERPEARL.stage.1=Im Wahnsinn liegt Einsicht. Jedenfalls wurde mir das gesagt, von ... ich nicht sicher bin, von wem, aber es hat etwas Wahres an sich. In letzter Zeit hatte ich seltsame Gedanken und Ideen, aber ihre Wichtigkeit und Bedeutung liegt gerade außerhalb meines Griffes. Wenn ich mich irgendwie konzentrieren kann, kann ich vielleicht mehr sehen.
