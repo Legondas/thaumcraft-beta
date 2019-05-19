@@ -757,7 +757,7 @@ thaumcraft.SPLITTRAJECTORY.text=Teilen Sie eine einzelne Flugbahn in zwei schwä
 #
 # SETTING DESCRIPTIONS
 focus.common.power=Macht
-focus.common.duration=Dauer (Sekunen)
+focus.common.duration=Dauer (Sekunden)
 focus.common.radius=Radius (Blöcke)
 focus.common.silk=Behutsamkeit
 focus.common.no=Nein
