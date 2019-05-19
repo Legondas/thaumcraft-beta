@@ -210,7 +210,7 @@ item.creative_flux_sponge.name=Fluxschwamm
 item.turret.basic.name=Automatische Armbrust
 item.turret.advanced.name=Verbesserte Automatische Armbrust
 item.turret.bore.name=Arkaner Bohrer
-item.enchanted_placeholder.name=Jeder verzauberte Gegenstand
+item.enchanted_placeholder.name=Jeglicher verzauberte Gegenstand
 item.enchanted_placeholder.text=Muss mindestens diese Verzauberungen haben:
 #
 # Golem
