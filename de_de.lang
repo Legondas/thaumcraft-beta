@@ -234,7 +234,7 @@ item.seal.breaker.name=Kontrollsiegel: Blöcke Abbauen
 item.seal.use.name=Kontrollsiegel: Verwenden
 item.seal.provider.name=Kontrollsiegel: Anbieten
 item.seal.stock.name=Kontrollsiegel: Lagern
-item.seal.breaker_advanced.name=Kontrollsiegel: Verbesserter Block Brecher
+item.seal.breaker_advanced.name=Kontrollsiegel: Verbessertes Blöcke-Abbauen
 #
 # Blocks
 ###################################
