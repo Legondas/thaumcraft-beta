@@ -596,7 +596,7 @@ item.creative_placer.obelisk.name=Obeliskplatzierer
 # Text
 research.complete=Forschung abgeschlossen!
 item.runic.charge=Runenschutz
-item.warping=Verzerrung
+item.warping=Warping
 item.capacity.text=Kapazität
 item.chargebonus.text=Ladung
 stability.gain=gewinn / Zyklus
