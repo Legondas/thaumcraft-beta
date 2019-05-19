@@ -427,7 +427,7 @@ tile.centrifuge.name=Essentia Zentrifuge
 tile.mirror.name=Magischer Spiegel
 tile.mirror_essentia.name=Essentia Spiegel
 tile.golem_builder.name=Golempresse
-tile.vis_battery.name=Vis Batterie
+tile.vis_battery.name=Vis-Batterie
 #
 # Misc
 tile.effect_shock.name=Statikfeld
