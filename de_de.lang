@@ -600,7 +600,6 @@ item.warping=Warping
 item.capacity.text=Kapazität
 item.chargebonus.text=Ladung
 stability.gain=%s Gewinn / Zyklus
-stability.range=0 bis 
 stability.loss=0 bis %s Verlust / Zyklus
 stability.VERY_STABLE=Sehr stabil
 stability.STABLE=stabil
