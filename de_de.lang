@@ -852,7 +852,7 @@ golem.prop.exist=Behälter muss den Gegenstand bereits enthalten
 golem.prop.leave=Behalte immer einen Gegenstand
 golem.prop.silk=Benutze Behutsamkeit
 
-focuspart.com=Complexity:
+focuspart.com=Komplexität:
 
 focuspart.base=Basiskosten:
 focuspart.mult=Kostenmultiplikator:
