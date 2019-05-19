@@ -353,7 +353,7 @@ tile.stabilizer.name=Stabilisator
 tile.condenser.name=Fluxkondensator
 tile.condenser_lattice.name=Fluxkondensatorgitter
 tile.condenser_lattice_dirty.name=Verstopftes Fluxkondensatorgitter
-tile.void_siphon.name=Leeren Siphon
+tile.void_siphon.name=Leersiphon
 tile.infernal_furnace.name=Höllenofen
 tile.inlay.name=Redstone Inlay
 #
