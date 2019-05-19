@@ -199,7 +199,7 @@ item.charm_undying.name=Talisman der Unsterblichkeit
 item.caster_basic.name=Zaubererhandschuh
 item.focus_1.name=Leerer schwacher Fokus
 item.focus_2.name=Leerer verbesserter Fokus
-item.focus_3.name=Leerer größerer Fokus
+item.focus_3.name=Leerer starker Fokus
 item.Focus.cost1=Vis pro Zauber
 item.focus_pouch.name=Fokusbeutel
 #
